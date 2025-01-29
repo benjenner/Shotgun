@@ -1,4 +1,4 @@
-## School Project: Automatic Opponent Game
+## School Project: Shotgun
 
 For this school project, I created a game where you play against an automated opponent. The goal is to shoot your opponent while they load. Both players start without any shots and must "Load" to get ammunition. If you collect three shots, you can use "Shotgun" to win instantly.
 
