@@ -1,18 +1,13 @@
-## Project Overview
+## School Project: Automatic Opponent Game
 
-The project involved creating a user-friendly application and database to manage bookings for a fictional hotel or guesthouse. (There were, unfortunately, no extra points awarded for coming up with a clever name for the hotel.)
+For this school project, I created a game where you play against an automated opponent. The goal is to shoot your opponent while they load. Both players start without any shots and must "Load" to get ammunition. If you collect three shots, you can use "Shotgun" to win instantly.
 
-The application handles:
-- Room management (single and double rooms)
-- Customer registration and updates
-- Bookings (including search and prevention of double bookings)
-- Cancellation and modification of bookings
-- Payment handling
+In the game, players' actions determine the outcomes: loading, blocking, or shooting lead to different results, creating a simple yet strategic logic.
 
-### Technical Requirements
+### Key Requirements
 
-The technical requirements include:
-- Entity Framework for database interactions
-- Implementing code first approach in Entity Framework
-- Ensuring the solution is OOP and functions without errors
-- Using Windows Forms for the interface
+- The code must be OOP and the game should run smoothly
+- Optimizing the automated opponent's intelligence based on game logic
+- Providing an option to play again
+- Allowing "Shotgun" only if a player has at least three shots
+
