@@ -4,7 +4,7 @@ For this school project, I created a game where you play against an automated op
 
 In the game, players' actions determine the outcomes: loading, blocking, or shooting lead to different results, creating a simple yet strategic logic.
 
-### Key Requirements
+## Key Requirements
 
 - The code must be OOP and the game should run smoothly
 - Optimizing the automated opponent's intelligence based on game logic
